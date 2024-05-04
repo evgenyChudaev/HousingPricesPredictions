@@ -3,7 +3,7 @@
 import streamlit as st 
 
 
-st.header("ABOUT THIS PROJECT")
+st.header("ABOUT THE PROJECT")
 
 st.write("This project was developed over two extended weekends in the spring of 2024 to showcase a complete data science project lifecycle, encompassing exploratory data analysis (EDA), feature engineering, model creation, and deployment of the entire solution as a web application. To maintain conciseness, several steps in exploratory data analysis have been condensed or omitted.")
 
