@@ -1,0 +1,1 @@
+This end-to-end data science project aims to predict property values in Washington State’s King County. The project utilizes Python (Statsmodels + PyCaret), Streamlit, and Docker.
